@@ -1,3 +1,4 @@
+import { Ropa_Sans } from "next/font/google";
 import type { Config } from "tailwindcss";
 
 const config: Config = {
@@ -15,6 +16,7 @@ const config: Config = {
       },
       fontFamily: {
         roboto: ['Roboto', 'serif'],
+        robotos: ['Roboto', 'sans'],
       },
     },
   },

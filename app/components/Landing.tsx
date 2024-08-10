@@ -3,7 +3,7 @@ import Image from "next/image";
 export default function Landing(){
     return(
         <div className="h-[88vh] w-[100%] relative">
-            <div className="landing h-[100%] ">
+            <div className="landing h-[100%]">
             </div>
             <div className="absolute top-36 left-24 z-10 text-white font-roboto tracking-wide">
                 <h1 className="text-7xl font-bold">Reliability.</h1>
